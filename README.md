@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anushka C V 
-- 👀 I’m interested in font-end , ml and ds 
+- 👀 I’m interested in front-end , ml and ds 
 - 🌱 I’m currently learning ai & ds 
 - 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me - will update 
