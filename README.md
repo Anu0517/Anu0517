@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="banner.jpg" alt="Banner" width="100%" />
 
 # 💫 About Me:
 👋 Hi, I’m Anushka C V<br>👀 I’m interested in data science, ML, and blockchain<br>🌱 I’m currently studying AI & DS <br>✨Other Interests: Event planning and management  <br>⚡ Fun acts: I crochet, read books, and watch anime
