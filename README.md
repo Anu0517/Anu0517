@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Anushka C V<br>👀 I’m interested in data science, ML, and blockchain<br>🌱 I’m currently studying AI & DS <br>✨Other Interests: Event planning and management  <br>⚡ Fun acts: I crochet, read books, and watch anime
+👋 Hi, I’m Anushka C V<br>👀 I’m interested in data science, ML, and blockchain<br>🌱 I’m currently studying AI & DS <br>✨Other Interests: Event planning and management  <br>⚡ Fun facts: I crochet, read books, and watch anime
 
 
 ## 🌐 Socials:
